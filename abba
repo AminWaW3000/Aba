@@ -1,0 +1,88 @@
+<html>
+
+
+<body style="background-color: CornflowerBlue">
+
+<header style="font-family: Arial Black; text-align: center">
+<p> Рок группа </p>
+<h1> Папиросы </h1>
+<img src="https://shkolamuzyki.ru/images/electrogitara.jpg">
+</header>
+
+<main>
+<p style="font-family: Arial Black"> Новая, молодёжная, рок-группа: "Папиросы", мы создаём крутейшие хитовые песни
+    в жанре рок, хард-рок, металл, нью-рок. У нас большая и отзывчивая база фанатов.
+    Поэтому приходите на наши рок концерты.
+    Список наших концертов:</p>
+<table border="4" bordercolor="#000000" cellspacing="0" cellpadding="10"  style="font-family: Arial Black; border: 3px Black">
+    <tr border="7" bordercolor="#000000">
+        <td>
+        Название
+        </td>
+        <td>
+        Место
+        </td>
+        <td>
+        Время
+        </td>
+        <td>
+        Цена
+        </td>
+    </tr>
+    <tr>
+    <td>
+        Закрытый концерт
+        </td>
+    <td>
+        ул.Республиканская 82
+        </td>
+        <td>
+        18:00
+        </td>
+        <td>
+        200р.
+        </td>
+    </tr>
+    <tr>
+        <td>
+        Не умрём
+        </td>
+        <td>
+        ул.Республиканская 82
+        </td>
+        <td>
+        19:30
+        </td>
+        <td>
+        250р
+        </td>
+    </tr>
+    <tr>
+        <td>
+        Выкуриваем мир
+        </td>
+        <td>
+        ул.Республиканская 82
+        </td>
+        <td>
+        20:00
+        </td>
+        <td>
+        250р.
+        </td>
+    </tr>
+</table>  
+
+<img src="https://guitargrad.ru/images/materials/guitar_time.jpg" style="text-align: center"  >
+
+
+</main>
+
+<footer style="font-family: Arial Black">
+<p>Связь с нами: </p>
+<p>Телефон: +79511457144 </p>
+<p>Email: 11mix112@gmail.com </p>
+</footer>
+
+
+</html>
